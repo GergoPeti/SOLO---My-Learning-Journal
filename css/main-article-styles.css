@@ -2,18 +2,30 @@
 *********** MAIN ARTICLE **********
 ****************************🦆🦆 */
 
-.main-article-black {
+.main-article-page_main-article {
   display: flex;
   flex-direction: column;
-  justify-content: end;
-  gap: 0.8rem;
+  gap: 3.5rem;
 
   margin: 3.2rem 2rem 5.1rem 2rem;
 }
 
-.main-article-black-image {
+.main-article-flex-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.main-article-page_main-image {
   border-radius: 3px;
   height: 191px;
+  margin-top: 1.9rem;
+}
+
+.q-and-a {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
 }
 
 .main-article-q,
