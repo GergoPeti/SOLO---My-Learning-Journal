@@ -1,0 +1,56 @@
+/* 🦆🦆***************************
+*********** MAIN ARTICLE **********
+****************************🦆🦆 */
+
+.main-article-black {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  gap: 0.8rem;
+
+  margin: 3.2rem 2rem 5.1rem 2rem;
+}
+
+.main-article-black-image {
+  border-radius: 3px;
+  height: 191px;
+}
+
+.main-article-q,
+.main-article-a {
+  color: #151515;
+  line-height: 2rem;
+}
+
+.main-article-q {
+  font-weight: 700;
+}
+
+.main-article-a {
+  font-weight: 400;
+}
+
+/* 🦆🦆***************************
+*********** RECENT POSTS **********
+****************************🦆🦆 */
+
+.section-container {
+  margin: 2.7rem 0 5.6rem 0;
+}
+
+#martop-0 {
+  margin-top: 0;
+}
+
+#marbo-0 {
+  margin-bottom: 0;
+}
+
+/* 🦆🦆***************************
+*********** RECENT POSTS **********
+****************************🦆🦆 */
+
+.recent-posts {
+  font-weight: 700;
+  text-align: center;
+}
