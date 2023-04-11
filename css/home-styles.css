@@ -35,9 +35,9 @@
   text-decoration: none;
 }
 
-.main-article-title a:hover {
-  /* FIXME */
-  color: #f2f;
+.main-article-title a:hover,
+.main-article-title a:focus {
+  color: #999;
 }
 
 .main-article-text {
